@@ -1,2 +1,10 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
 
+img, video, audio {
+    width: 200px;
+    height: 200px;
+}
 /* Your CSS Code here. */
